@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ipoags
 - 👀 I’m interested in many many things lol...
-- 🌱 I’m currently learning data science & more.
+- 🌱 I’m currently learning data analytics & more.
 - 💞️ I’m looking to collaborate on data projects.
 - 📫 How to reach me: Poagsiyonna@gmail.com.
-- 😄 I'm 25, a wife & a mom
+- 😄 I'm 26, a wife & a mom
 - ⚡ Fun fact: I were vegan/vegetarian for 6 years.
 
 <!---
